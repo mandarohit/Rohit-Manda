@@ -54,5 +54,4 @@ Undergraduate specializing in **Artificial Intelligence & Data Science**. My tec
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=mandarohit&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mandarohit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
 </p>
