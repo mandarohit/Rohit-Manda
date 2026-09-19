@@ -33,7 +33,7 @@ Undergraduate specializing in **Artificial Intelligence & Data Science**. My tec
 * Built methods for ECMP, LP, FC-TE, LSTM-TE, CNN-TE, and DRL-TE to compare classical and deep learning strategies in traffic engineering.
 * Designed to streamline experimentation, evaluation, and model development for networking research workflows.
 
-#### 2. [SpaceX Falcon 9 First-Stage Landing Prediction](https://github.com/mandarohit/SpaceX-Falcon-9-First-Stage-Landing-Prediction)
+#### 2. [SpaceX Falcon 9 First-Stage Landing Prediction](https://github.com/mandarohit/SpaceX-Falcon9-Landing-Prediction)
 * Built an end-to-end classification pipeline to predict the successful recovery of SpaceX Falcon 9 first-stage boosters.
 * Extracted and processed telemetry records using the SpaceX REST API and web scraping; performed exploratory analysis with SQL and Pandas.
 * Implemented interactive geospatial maps with Folium and dynamic dashboards with Plotly Dash.
