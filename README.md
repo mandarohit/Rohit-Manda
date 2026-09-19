@@ -49,11 +49,6 @@ Undergraduate specializing in **Artificial Intelligence & Data Science**. My tec
 * Built responsive layouts and interactive dashboards using HTML5, CSS3, and JavaScript.
 * Structured relational schemas to ensure reliable state management and clear administrative auditing.
 
-#### 5. [Real-Time Traffic Prediction Pipeline](https://github.com/mandarohit/Real-Time-Traffic-Prediction-Pipeline)
-* Designed a distributed streaming pipeline for continuous vehicle data and real-time spatial traffic forecasting.
-* Integrated Apache Kafka for live ingestion and Apache Spark for distributed feature transformation.
-* Deployed CNN-based models with adaptation strategies to handle concept drift in dynamic traffic conditions.
-
 ---
 
 ### 📊 GitHub Activity
