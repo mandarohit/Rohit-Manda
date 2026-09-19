@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-Undergraduate specializing in **Artificial Intelligence & Data Science**. My technical work centers on designing end-to-end data science pipelines, fine-grained NLP models, interactive web systems, and distributed real-time machine learning workflows.
+Undergraduate specializing in **Artificial Intelligence & Data Science**. My technical work centers on designing end-to-end data science pipelines, fine-grained NLP models, interactive web systems, and scalable ML solutions for real-world decision making.
 
 * 🔭 **Core Strengths:** Predictive Modeling, Feature Engineering, Supervised Learning, and Stream Processing.
 * 🛠️ **Engineering Mindset:** Bridging mathematical models with clean, reproducible software architecture.
@@ -17,7 +17,7 @@ Undergraduate specializing in **Artificial Intelligence & Data Science**. My tec
 
 ### 💻 Technical Tooling & Frameworks
 
-* **Programming Languages:** Python, C , SQL, Bash
+* **Programming Languages:** Python, C, SQL, Bash
 * **Machine Learning & Deep Learning:** Scikit-Learn, PyTorch, CNNs, Hugging Face Transformers (BERT)
 * **Data Engineering & Streaming:** Apache Spark, Apache Kafka, Distributed Data Ingestion
 * **Analytics & Visualization:** Plotly Dash, Folium, Pandas, NumPy, Matplotlib, Seaborn
@@ -27,26 +27,32 @@ Undergraduate specializing in **Artificial Intelligence & Data Science**. My tec
 
 ### 📌 Featured Projects
 
-#### 1. [SpaceX Falcon 9 First-Stage Landing Prediction]
+#### 1. [dNE: Differentiable Network Engineering](https://github.com/mandarohit/dNE)
+* Prototyped an efficient and lightweight framework for DNN-based traffic engineering and network optimization.
+* Implemented differentiable network modeling in PyTorch with support for both traditional baselines and modern learning-based routing approaches.
+* Built methods for ECMP, LP, FC-TE, LSTM-TE, CNN-TE, and DRL-TE to compare classical and deep learning strategies in traffic engineering.
+* Designed to streamline experimentation, evaluation, and model development for networking research workflows.
+
+#### 2. [SpaceX Falcon 9 First-Stage Landing Prediction](https://github.com/mandarohit/SpaceX-Falcon-9-First-Stage-Landing-Prediction)
 * Built an end-to-end classification pipeline to predict the successful recovery of SpaceX Falcon 9 first-stage boosters.
-* Extracted and processed telemetry records using the SpaceX REST API and web scraping; executed exploratory data analysis with SQL and Pandas.
+* Extracted and processed telemetry records using the SpaceX REST API and web scraping; performed exploratory analysis with SQL and Pandas.
 * Implemented interactive geospatial maps with Folium and dynamic dashboards with Plotly Dash.
-* Evaluated and optimized classification algorithms (Logistic Regression, SVM, Decision Trees, KNN) using `GridSearchCV` hyperparameter tuning.
+* Evaluated and optimized classification algorithms such as Logistic Regression, SVM, Decision Trees, and KNN using GridSearchCV.
 
-#### 2. [Aspect Sentiment Triplet Extraction (ASTE)]
-* Developed an NLP information extraction system fine-tuning BERT on benchmark review datasets (`laptop_train`, `restaurant_train`).
+#### 3. [Aspect Sentiment Triplet Extraction (ASTE)](https://github.com/mandarohit/ASTE)
+* Developed an NLP information extraction system by fine-tuning BERT on benchmark review datasets.
 * Jointly extracted target aspect terms, opinion phrases, and sentiment polarities.
-* Formatted validated relational extractions into standardized, production-ready JSON outputs.
+* Formatted validated relational extractions into structured JSON outputs suitable for downstream use.
 
-#### 3. [Attendance Management System]
-* Engineered an operational management interface designed to track and organize attendance workflows.
-* Built responsive layouts and interactive dashboards with HTML5, CSS3, and JavaScript.
+#### 4. [Attendance Management System](https://github.com/mandarohit/Attendance-Management-System)
+* Engineered an operational interface to manage and organize attendance workflows.
+* Built responsive layouts and interactive dashboards using HTML5, CSS3, and JavaScript.
 * Structured relational schemas to ensure reliable state management and clear administrative auditing.
 
-#### 4. [Real-Time Traffic Prediction Pipeline]
-* Designed a distributed streaming pipeline processing continuous vehicle data for real-time spatial traffic forecasting.
-* Integrated Apache Kafka for high-throughput live stream ingestion and Apache Spark for distributed feature transformation.
-* Deployed Convolutional Neural Network (CNN) models with online adaptation strategies to mitigate concept drift in changing flow conditions.
+#### 5. [Real-Time Traffic Prediction Pipeline](https://github.com/mandarohit/Real-Time-Traffic-Prediction-Pipeline)
+* Designed a distributed streaming pipeline for continuous vehicle data and real-time spatial traffic forecasting.
+* Integrated Apache Kafka for live ingestion and Apache Spark for distributed feature transformation.
+* Deployed CNN-based models with adaptation strategies to handle concept drift in dynamic traffic conditions.
 
 ---
 
